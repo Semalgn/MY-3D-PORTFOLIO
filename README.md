@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a>
-      <img src="public/images/readme.png" alt="Project Banner">
+      <img src="ReadMemd(3d).png" alt="Project Banner">
     </a>
   <br />
 
